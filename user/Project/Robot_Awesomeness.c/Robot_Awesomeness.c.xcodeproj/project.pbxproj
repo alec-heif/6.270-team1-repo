@@ -1,0 +1,67 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXGroup section */
+		A02FAB7E16A8D0EA008F8BEA = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		A02FAB8016A8D0EA008F8BEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+			};
+			buildConfigurationList = A02FAB8316A8D0EA008F8BEA /* Build configuration list for PBXProject "Robot_Awesomeness.c" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A02FAB7E16A8D0EA008F8BEA;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		A02FAB8516A8D0EA008F8BEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		A02FAB8616A8D0EA008F8BEA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A02FAB8316A8D0EA008F8BEA /* Build configuration list for PBXProject "Robot_Awesomeness.c" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A02FAB8516A8D0EA008F8BEA /* Debug */,
+				A02FAB8616A8D0EA008F8BEA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A02FAB8016A8D0EA008F8BEA /* Project object */;
+}
